@@ -31,4 +31,4 @@ The individual paper was solo-authored coursework. The group paper and presentat
 
 ## License / Use
 
-Course project. Shared here for portfolio purposes.
+Course project. Shared here for portfolio purposes. Both papers were developed as part of the curriculum and have not been published anywhere.

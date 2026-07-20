@@ -29,4 +29,4 @@ Group project (6 members). I'm flagging that I couldn't confirm from the files a
 
 ## License / Use
 
-Course project. Shared here for portfolio purposes.
+Course project. Shared here for portfolio purposes. The web paper and literature review were developed as part of the curriculum and have not been published anywhere.
