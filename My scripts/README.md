@@ -2,7 +2,7 @@
 
 A Unity/VR simulation built to train pedestrian road-safety awareness. The player navigates a campus-like environment on foot (or drives a car in dedicated levels) while AI-controlled traffic follows waypoints, obeys traffic lights, and reacts to collisions — teaching players to read traffic cues and cross safely under a time limit.
 
-This repository contains the gameplay scripts, organized by system for readability. It does not include the full Unity project (scenes, meshes, audio assets), just the C# source and the NPC character prefabs.
+This repository contains the gameplay scripts only, organized by system for readability. It does not include the full Unity project (scenes, meshes, prefabs, audio assets, or `.meta` files) — just the C# source, as a code showcase.
 
 ## Systems
 
@@ -10,7 +10,7 @@ This repository contains the gameplay scripts, organized by system for readabili
 
 **TrafficSystem** — `TrafficLight` renders one intersection light's color; `TrafficLightManager` runs a 4-way signal cycle (through-traffic and protected left turns) that `AICarController` reads to decide when to stop.
 
-**NPC** — `NPCController` patrols a NavMesh, plays idle/walk animations, and falls down and recovers if hit by a car. `NPCSpawner` keeps a population of NPCs alive around the player and despawns ones that wander too far. `Prefabs/` holds the pedestrian character prefabs it spawns.
+**NPC** — `NPCController` patrols a NavMesh, plays idle/walk animations, and falls down and recovers if hit by a car. `NPCSpawner` keeps a population of NPCs alive around the player and despawns ones that wander too far (spawns pedestrian prefabs, not included in this repo).
 
 **Navigation** — `WaypointLoopAgent` moves a NavMeshAgent through an ordered loop of waypoints (used for scripted routes). `Waypoint` defines a linked-list waypoint node with a lane width, used by the custom waypoint editor.
 
