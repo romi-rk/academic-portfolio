@@ -4,7 +4,7 @@ Unity/C# scripts from a VR driving simulator built to recreate Euro NCAP pedestr
 
 `Meta Quest 3` · `Unity 6000.0.49f1` · `C#` · `XR Interaction Toolkit`
 
-📄 [Full paper (IEEE format, PDF)](#) · 🎥 [Video presentation](https://youtu.be/4PwmDM-cRB8)
+📄 [Full paper (IEEE format, PDF)] · 🎥 [Video presentation](https://youtu.be/4PwmDM-cRB8)
 
 ---
 
@@ -41,4 +41,4 @@ Built by a 5-person team. Hardware/VR integration, environment design, traffic A
 
 ## License / Use
 
-Course project. Asset packs used under their respective store licenses (see paper Annexure A for full list and sources). Scripts shared here for portfolio purposes.
+Course project. Asset packs used under their respective store licenses. Scripts shared here for portfolio purposes.
