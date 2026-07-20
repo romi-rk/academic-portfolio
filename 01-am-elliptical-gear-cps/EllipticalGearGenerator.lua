@@ -1,12 +1,3 @@
--- AMP Case Study 2026 - Group 30
--- Elliptical Gear set with axis in the focus point, with sine tooth profile
--- 1. HRITIK SURESH JAIN            (22403618)
--- 2. AJAY ARJUN MANNOLKAR          (22402834)
--- 3. SHUBHAM DNYANESHWAR URMODE    (22408646)
--- 4. PARV RAJESHKUMAR PARAKHIYA    (22408788)
--- 5. HARSHAL BOKIL                 (22409497)
--- 6. ROMIKUMAR RAMESHBHAI KUKADIYA (22409640)
--- 7. JAYDEV DAGA                   (22407988)
 
 -- ===================================================
 -- Section 1: User Inputs and Basic Gearbox Parameters
