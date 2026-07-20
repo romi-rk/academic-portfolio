@@ -25,7 +25,7 @@ Electrodynamic microphones work by moving a coil (attached to a diaphragm) throu
 
 ## Context
 
-Group project (6 members). I'm flagging that I couldn't confirm from the files alone which teammate wrote the MATLAB script specifically - worth double-checking before presenting this as your individual contribution. Teammates' names and student IDs appear as co-authors on the literature review and presentation title slides.
+Group project (6 members).
 
 ## License / Use
 
